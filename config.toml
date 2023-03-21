@@ -1,6 +1,6 @@
 baseURL = "http://hugo-coursera.s3-website.eu-central-1.amazonaws.com"
 languageCode = 'en-us'
-title = 'Hugo AWS S3 CD'
+title = 'Hugo AWS CD'
 theme = "ananke"
 
 [[deployment.targets]]
