@@ -16,3 +16,20 @@ You can refer to the book Cloud Computing for Data, [Chapter 02](https://paiml.c
 ## Demo Video
 
 Here is a Hugo Website [Continous Deploy from Zero Video](https://www.youtube.com/watch?v=xiodvLdPnvI)
+
+
+## IMPORTANT!
+
+Since this repository contains submodules use one of the following when cloning the repository:
+
+```
+git clone --recursive <repo-link>
+```
+
+or
+
+```
+git clone <repo-link>
+cd dukehugofeb1
+git submodule update --init --recursive
+```
